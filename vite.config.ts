@@ -5,7 +5,7 @@ import { defineConfig } from "vite"
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/elly-test-1',
+  base: '/ellty-test-1',
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
